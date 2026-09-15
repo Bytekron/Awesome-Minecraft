@@ -577,6 +577,7 @@ Updated and checked 2026. Please contribute to keep this link list accurate and 
 - **[WorldPainter](https://www.worldpainter.net/)** - Tool for creating custom Minecraft terrain maps.
 - **[Chunker](https://chunker.app/)** - Tool for converting worlds between Minecraft editions.
 - **[Mineways](https://www.realtimerendering.com/erich/minecraft/public/mineways/)** - Export Minecraft worlds to 3D models.
+- **[Minecraft Pixel Art](https://minecraft-pixel-art.com/)** - Browser tool for turning images into Minecraft block plans with material lists, layer guides, and NBT exports.
 
 ---
 

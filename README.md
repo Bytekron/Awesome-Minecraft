@@ -411,6 +411,11 @@ Updated and checked 2026. Please contribute to keep this link list accurate and 
 
 
 
+### Modding Compatibility References
+
+- **[Fabric vs Forge vs NeoForge — Minecraft compatibility guide](https://universalmodder.dev/guides/minecraft-mod-loaders/)** - Independent, source-linked guide to Minecraft editions, loader and Java combinations, declared dependencies, instance folders, and the distinction between plugins and code mods.
+
+
 ## Minecraft Server Lists
 
 ### General Server Lists

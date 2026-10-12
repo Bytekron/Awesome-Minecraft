@@ -430,6 +430,7 @@ Updated and checked 2026. Please contribute to keep this link list accurate and 
 - **MinecraftList.org** - A community-driven server list with categories and voting.
 - **[Minelist](https://minelist.io/)** - The newest and best Minecraft server list platform.
 - **[MinecraftServer.Buzz](https://minecraftserver.buzz/)** - Biggest Server discovery platform with modern UI and over 30000 MC Servers listed.
+- **[BestMCServerList](https://bestmcserverlist.net/)** - New, free server list without pay-to-rank: NuVotifier vote rewards, live status for Java and Bedrock, site in EN/DE/PL/ES, plus free browser tools (MOTD, server icon, banner, DeluxeMenus GUI maker).
 
 ### Modern Server Discovery Platforms
 

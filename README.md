@@ -32,6 +32,7 @@ Updated and checked 2026. Please contribute to keep this link list accurate and 
 - **[CraftBukkit](https://github.com/Bukkit/CraftBukkit)** - The original Bukkit server implementation with plugin support.
 - **[Spigot](https://www.spigotmc.org/)** - A highly optimized CraftBukkit fork with broad plugin compatibility.
 - **[Paper](https://github.com/PaperMC/Paper)** - High-performance Spigot fork focused on performance, fixes, and API improvements.
+- **[Salmon](https://github.com/firesmasher-c6/Salmon)** - A Paper-based minecraft server software built for optimization, long-running tasks, big servers, and large multiple plugins at once.
 - **[Purpur](https://github.com/PurpurMC/Purpur)** - A configurable Paper fork with many gameplay tweaks and customization options.
 - **[Pufferfish](https://github.com/pufferfish-gg/Pufferfish)** - A performance-focused Paper fork with extra optimizations.
 - **[Airplane](https://github.com/TECHNOVE/Airplane)** - A Paper fork focused on performance and scalability.

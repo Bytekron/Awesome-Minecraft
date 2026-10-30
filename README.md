@@ -611,6 +611,7 @@ Updated and checked 2026. Please contribute to keep this link list accurate and 
 
 - **[MCA Selector](https://github.com/Querz/mcaselector)** - Tool for editing and deleting Minecraft region files.
 - **[Region Fixer](https://github.com/Fenixin/Minecraft-Region-Fixer)** - Fixes corrupted region files.
+- **[EnchantCalc](https://enchantcalc.com)** - Free anvil/enchantment order cost calculator with XP, Nether portal tools and a "Too Expensive!" fix guide.
 - **[Amulet Converter](https://github.com/Amulet-Team/Amulet-Core)** - World conversion tool between Minecraft editions.
 
 ---

@@ -169,6 +169,8 @@ Updated and checked 2026. Please contribute to keep this link list accurate and 
 
 - **[BungeeQueue](https://github.com/SecretX33/BungeeQueue)** - Queue system designed for BungeeCord networks.
 
+- **[Kordon](https://github.com/KordonLabs/mc-kordon-plugin)** - An open-source AntiVPN and anti-bot plugin for Velocity and BungeeCord that blocks VPNs, proxies and bot waves at login (needs a free Kordon account).
+
 
 
 ## Servers

@@ -595,6 +595,7 @@ Updated and checked 2026. Please contribute to keep this link list accurate and 
 - **[mcping](https://github.com/ammaraskar/py-mcping)** - Lightweight Minecraft server ping tool.
 - **[node-minecraft-ping](https://github.com/Cryptkeeper/node-minecraft-ping)** - Node.js library for server pinging.
 - **[minecraft-server-util](https://github.com/PassTheMayo/minecraft-server-util)** - Node.js library for querying Minecraft servers.
+- **[minecraft-server-tools](https://github.com/Himtome1/minecraft-server-tools)** - MIT JavaScript Server List Ping status checker (SRV lookup, SSRF guard, rate limits, CLI) plus a modpack RAM calculator and MOTD generator. Hosted: [status checker](https://packyard.ca/tools/minecraft-server-status), [RAM calculator](https://packyard.ca/tools/minecraft-server-ram-calculator), [MOTD generator](https://packyard.ca/tools/minecraft-motd-generator).
 
 ---
 

@@ -612,6 +612,7 @@ Updated and checked 2026. Please contribute to keep this link list accurate and 
 - **[MCA Selector](https://github.com/Querz/mcaselector)** - Tool for editing and deleting Minecraft region files.
 - **[Region Fixer](https://github.com/Fenixin/Minecraft-Region-Fixer)** - Fixes corrupted region files.
 - **[Amulet Converter](https://github.com/Amulet-Team/Amulet-Core)** - World conversion tool between Minecraft editions.
+- **[ShulkerHub](https://shulkerhub.com/tools/)** - Browser-based technical calculators for SMP servers, including an Anvil region file (`r.X.Z.mca`) & chunk border converter, 3D Nether portal linker, mob despawn sphere radar, and server MOTD previewer.
 
 ---
 

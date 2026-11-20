@@ -430,6 +430,7 @@ Updated and checked 2026. Please contribute to keep this link list accurate and 
 - **MinecraftList.org** - A community-driven server list with categories and voting.
 - **[Minelist](https://minelist.io/)** - The newest and best Minecraft server list platform.
 - **[MinecraftServer.Buzz](https://minecraftserver.buzz/)** - Biggest Server discovery platform with modern UI and over 30000 MC Servers listed.
+- **[ServerRoam](https://serverroam.com/minecraft)** - Server list for Minecraft, FiveM and RedM with live player counts and community votes.
 
 ### Modern Server Discovery Platforms
 

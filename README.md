@@ -445,6 +445,7 @@ Updated and checked 2026. Please contribute to keep this link list accurate and 
 - **Minecraft-MP** - Vote-based Minecraft server ranking system.
 - **Top-Servers** - Voting and ranking platform for Minecraft servers.
 - **GTOP100** - Game server ranking site supporting Minecraft server listings.
+- **[MinecraftServersList](https://minecraftservers-list.com/)** - Free Minecraft server list ranked by player votes with a monthly reset, NuVotifier support and a free Votifier tester.
 - **Game-State** - Server ranking and voting system used by many Minecraft servers.
 
 ### Specialized / Community Server Lists
@@ -655,6 +656,7 @@ Updated and checked 2026. Please contribute to keep this link list accurate and 
 ### Server Utilities
 
 - **[ServerStarter](https://github.com/IzzelAliz/Arclight)** - Automated server startup and update tool.
+- **[MCToolsHub](https://mctoolshub.com/)** - Free browser tools for server owners: Votifier tester, MOTD and server.properties generators, and more.
 - **[mc-server-runner](https://github.com/itzg/mc-server-runner)** - Script for automatically updating and running Minecraft servers.
 - **[Docker Minecraft Server](https://github.com/itzg/docker-minecraft-server)** - Docker container for running Minecraft servers with many configurable options.
 - **[Minecraft Server Launcher](https://github.com/williewillus/minecraft-launch-wrapper)** - Utility for launching and managing Minecraft servers.
@@ -665,6 +667,7 @@ Updated and checked 2026. Please contribute to keep this link list accurate and 
 
 - **[Misode Datapack Generators](https://misode.github.io/)** - Web tools for generating Minecraft datapacks.
 - **[MCStacker](https://mcstacker.net/)** - Tool for generating complex Minecraft commands.
+- **[MCPlayerTools](https://mcplayertools.com/)** - Free browser tools for building datapacks, custom paintings, music discs and commands without writing JSON by hand.
 - **[Sandstone](https://github.com/sandstone-mc/sandstone)** - Framework for writing Minecraft datapacks in TypeScript.
 
 ---

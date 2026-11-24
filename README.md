@@ -330,6 +330,7 @@ Updated and checked 2026. Please contribute to keep this link list accurate and 
 - **[MythicMobs](https://github.com/MythicCraft/MythicMobs)** - Custom mobs and boss fights.
 - **[Heroes](https://github.com/HeroesMC/Heroes)** - RPG class system.
 - **[AureliumSkills](https://github.com/Archy-X/AureliumSkills)** - Advanced RPG skill system.
+- **[SecondWind](https://github.com/SecondWindMC/SecondWindRevive)** - Fortnite-style DBNO revive system: lethal damage downs players, teammates revive, enemies execute.
 
 ---
 
@@ -356,6 +357,7 @@ Updated and checked 2026. Please contribute to keep this link list accurate and 
 - **[bStats](https://github.com/bStats/bStats-Metrics)** - Plugin metrics and analytics library.
 - **[ServerListPlus](https://github.com/ServerListPlus/ServerListPlus)** - Custom server list MOTD plugin.
 - **[PlugMan](https://github.com/TheBlackEntity/PlugManX)** - Manage plugins without restarting the server.
+- **[GraveGuard](https://github.com/SecondWindMC/GraveGuard)** - Death-chest graves that store items + XP with a protection timer, hologram countdown, and return compass.
 
 
 ## Mods and Mod Platforms
